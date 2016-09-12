@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 env/
@@ -89,4 +90,7 @@ ENV/
 .ropeproject
 
 #Private_Code
-redditscrapper/
+redditscrapper/*
+
+#Idea
+.idea/*
